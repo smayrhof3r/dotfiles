@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = smayrhofer@gmail.com
+	name = Sheila Mayrhofer
